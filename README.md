@@ -2,6 +2,7 @@
 - Master thesis titled: GPU Accelerated Dynamic Graph Processing
 
 ### 🌱 Some of my main projects
+- [raptor](https://github.com/dma-neves/raptor): A high level algorithmic skeleton CUDA library.
 - [gameboyemu](https://github.com/dma-neves/gameboyemu): A Gameboy emulator written in c.
 - [dcpu](https://github.com/dma-neves/dcpu): 16-bit microprocessor developed in VHDL.
 - [pqrcode](https://github.com/dma-neves/pqrcode): QR code reader parallelized using OpenMP.
