@@ -12,7 +12,7 @@
 
 ### 📚 My Research
 - [DCCond](https://dl.acm.org/doi/10.1145/3477314.3507120): Resarch paper proposing a new high-level data-centric condition-based synchronization model.
-- [Master Thesis](https://github.com/dma-neves/master_thesis) titled: GPU Accelerated Dynamic Graph Processing
+- Master Thesis titled: GPU Accelerated Dynamic Graph Processing
 
 <!--
 **dma-neves/dma-neves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
